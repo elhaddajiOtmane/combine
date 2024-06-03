@@ -1,4 +1,6 @@
+# Ignore all directories
+/**/
 
-/app.mygoodies/app.mygoodies.fr
-/hdgoodies/HDGoodies
-/kingstore
+# Except files at the root directory
+!/.*
+!/*
